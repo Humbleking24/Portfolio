@@ -42,4 +42,4 @@ Feel free to reach out for collaboration or opportunities
 Name: Arnav Dayal  
 Email: dayalarnav358@gmail.com  
 Linkedin: www.linkedin.com/in/arnav-dayal-00a501251  
-Portfolio Website:[ https://stellar-wisp-81d2ea.netlify.app/ ](https://thehumblekingportfolio.netlify.app/) 
+Portfolio Website: https://thehumblekingportfolio.netlify.app/
